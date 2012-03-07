@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1">
+        <file>
+            <url>src/org/netbeans/modules/groovy/editor/api/parser/GroovyParser.java</url>
+            <line>331</line>
+            <line>853</line>
+        </file>
+        <file>
+            <url>src/org/netbeans/modules/groovy/editor/api/parser/EditorParser.java</url>
+            <line>186</line>
+            <line>883</line>
+        </file>
+        <file>
+            <url>src/org/netbeans/modules/groovy/editor/api/completion/CompletionHandler.java</url>
+            <line>2565</line>
+        </file>
+        <file>
+            <url>src/org/netbeans/modules/groovy/editor/api/parser/ResolveVisitorDelegate.java</url>
+            <line>509</line>
+            <line>580</line>
+            <line>1268</line>
+            <line>1541</line>
+        </file>
+    </editor-bookmarks>
+</project-private>
